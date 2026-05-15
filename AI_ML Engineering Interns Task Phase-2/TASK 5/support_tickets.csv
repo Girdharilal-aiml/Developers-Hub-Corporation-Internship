@@ -1,0 +1,181 @@
+ticket_id,ticket_text,tag
+TKT-1000,Why is my bill higher than the plan price listed on your website,Billing
+TKT-1001,I changed my mind after purchase can I still get refunded,Refund
+TKT-1002,What is your data privacy policy,General Inquiry
+TKT-1003,I get a CORS error when trying to use the API,Technical Issue
+TKT-1004,I upgraded my plan but do not see new features,Subscription
+TKT-1005,I paid but my account still shows as unpaid,Billing
+TKT-1006,I need to update my billing address,Billing
+TKT-1007,The search function returns no results even for things I know exist,Technical Issue
+TKT-1008,My account shows I am on the free plan but I pay for premium,Account Access
+TKT-1009,I am trying to log in from a new country and being blocked,Account Access
+TKT-1010,The password reset link expired before I could use it,Account Access
+TKT-1011,What file formats does your tool support,General Inquiry
+TKT-1012,Notifications are not working on my iPhone,Technical Issue
+TKT-1013,I was offered a loyalty discount but cannot find how to apply it,Subscription
+TKT-1014,The quality was not what was described I want a refund,Refund
+TKT-1015,Can I get an itemized receipt for my purchase,Billing
+TKT-1016,I want to refund my most recent invoice only,Refund
+TKT-1017,Can I pause my subscription instead of cancelling,Subscription
+TKT-1018,I deleted my account by mistake can you restore it,Account Access
+TKT-1019,The promotion said money back guarantee I want mine,Refund
+TKT-1020,I cannot access my account on mobile only desktop works,Account Access
+TKT-1021,I want to upgrade my plan to the business tier,Subscription
+TKT-1022,I want to gift a subscription to someone,Subscription
+TKT-1023,I want a full refund for my purchase last week,Refund
+TKT-1024,I was billed for a plan I never signed up for,Billing
+TKT-1025,How is my data stored and backed up,General Inquiry
+TKT-1026,The app keeps crashing every time I open it,Technical Issue
+TKT-1027,I need to cancel a pending payment,Billing
+TKT-1028,I want to know what happens to my data if I cancel,Subscription
+TKT-1029,I have a feature request where do I submit it,General Inquiry
+TKT-1030,The login button does nothing when I click it,Account Access
+TKT-1031,I need the refund in the form of account credit,Refund
+TKT-1032,I need a subscription for 200 users what are my options,Subscription
+TKT-1033,I cancelled but I am still being charged,Subscription
+TKT-1034,The export feature is broken nothing downloads,Technical Issue
+TKT-1035,I need an official receipt for tax purposes,Billing
+TKT-1036,I cannot access the account settings page,Account Access
+TKT-1037,My data is not syncing across my devices,Technical Issue
+TKT-1038,I keep getting a connection timeout error,Technical Issue
+TKT-1039,I accidentally bought the wrong plan can I get my money back,Refund
+TKT-1040,My bill increased without any notification,Billing
+TKT-1041,The service was down for three days I want compensation,Refund
+TKT-1042,I want to switch from monthly to annual billing,Subscription
+TKT-1043,I am locked out of my two factor authentication,Account Access
+TKT-1044,Do you provide training or onboarding resources,General Inquiry
+TKT-1045,How do I get the student discount applied to my subscription,Subscription
+TKT-1046,I forgot my password and cannot reset it,Account Access
+TKT-1047,How long does the refund process take,Refund
+TKT-1048,Do you offer white labeling for agencies,General Inquiry
+TKT-1049,The confirm your email message never arrived,Account Access
+TKT-1050,What languages does your platform support,General Inquiry
+TKT-1051,What integrations do you support,General Inquiry
+TKT-1052,I need a copy of my billing statement for last quarter,Billing
+TKT-1053,Do you have a community forum or user group,General Inquiry
+TKT-1054,I need to escalate my refund request it keeps getting denied,Refund
+TKT-1055,The calendar integration is showing the wrong timezone,Technical Issue
+TKT-1056,How does your product compare to your competitors,General Inquiry
+TKT-1057,The batch import function is stuck at 0 percent,Technical Issue
+TKT-1058,I need to set up auto-renewal on my account,Subscription
+TKT-1059,My company needs to pay by bank transfer not credit card,Billing
+TKT-1060,Do you have an affiliate or referral program,General Inquiry
+TKT-1061,My colleague cannot log in with the credentials I sent,Account Access
+TKT-1062,I need to add a new admin to my organization,Account Access
+TKT-1063,The system keeps logging me out every few minutes,Technical Issue
+TKT-1064,I need to return this product and get my payment back,Refund
+TKT-1065,Where can I find your product documentation,General Inquiry
+TKT-1066,I have a promotional discount that was not applied,Billing
+TKT-1067,I cannot sign up because my email address is already taken,Account Access
+TKT-1068,I installed the latest update and now nothing works,Technical Issue
+TKT-1069,My enterprise subscription is missing some promised features,Subscription
+TKT-1070,I want to dispute a charge from two weeks ago,Billing
+TKT-1071,I need to update my payment method on file,Billing
+TKT-1072,The subscription renewed automatically without my consent,Billing
+TKT-1073,I cannot see my team members in the account dashboard,Account Access
+TKT-1074,I see a duplicate charge on my account from last week,Billing
+TKT-1075,Please process my refund immediately it has been 10 days,Refund
+TKT-1076,My SSO login is not working with Google,Account Access
+TKT-1077,What is the difference between the pro and enterprise plans,Subscription
+TKT-1078,I need to change the email address on my account,Account Access
+TKT-1079,There is an unauthorized charge on my account,Billing
+TKT-1080,I need to merge two accounts under one email,Account Access
+TKT-1081,Can I get a nonprofit discount on the annual plan,Subscription
+TKT-1082,I was charged twice for my subscription this month,Billing
+TKT-1083,My subscription is showing as expired but it should be active,Subscription
+TKT-1084,The video player freezes after a few seconds,Technical Issue
+TKT-1085,The mobile app shows a blank white screen after the update,Technical Issue
+TKT-1086,I was charged after cancelling my subscription refund please,Refund
+TKT-1087,My subscription expired but I still need access for 2 more days,Subscription
+TKT-1088,I cannot find my payment history anywhere,Billing
+TKT-1089,I bought annual but want to switch to monthly and get partial refund,Refund
+TKT-1090,I want to know when my subscription renews,Subscription
+TKT-1091,Can I get a custom plan for my company,Subscription
+TKT-1092,I was charged during my free trial period,Billing
+TKT-1093,My payment confirmation email never arrived,Billing
+TKT-1094,I need invoices for all my subscription payments this year,Subscription
+TKT-1095,I cannot delete records it says permission denied,Technical Issue
+TKT-1096,The website is down for me but I see others using it,Technical Issue
+TKT-1097,Error code E-4042 appears whenever I try to checkout,Technical Issue
+TKT-1098,I never received my order so I want my money back,Refund
+TKT-1099,I cannot access my old projects after the account migration,Account Access
+TKT-1100,Copy paste is not working in the text editor,Technical Issue
+TKT-1101,I need to add 5 more seats to my team plan,Subscription
+TKT-1102,What is the maximum storage size per account,General Inquiry
+TKT-1103,Do you have a mobile app for Android,General Inquiry
+TKT-1104,Please return the money to my original payment method,Refund
+TKT-1105,Someone hacked my account and changed the password,Account Access
+TKT-1106,I signed up for annual but it only shows monthly,Subscription
+TKT-1107,Can I export all my data before cancelling,General Inquiry
+TKT-1108,I cannot upload files larger than 5MB the system gives an error,Technical Issue
+TKT-1109,My API calls are returning 403 forbidden errors,Technical Issue
+TKT-1110,I cancelled within the 30 day window so I deserve a refund,Refund
+TKT-1111,My refund ticket number is REF-4521 what is the status,Refund
+TKT-1112,I want to transfer my subscription to another account,Subscription
+TKT-1113,How do I apply my coupon code to the subscription,Subscription
+TKT-1114,The dashboard is loading very slowly takes over 2 minutes,Technical Issue
+TKT-1115,I saw a job listing at your company I want to apply,General Inquiry
+TKT-1116,I need to remove a user from my team account,Account Access
+TKT-1117,I need to downgrade from pro to basic plan,Subscription
+TKT-1118,I need to transfer my account to a different email,Account Access
+TKT-1119,My refund was only partial but I was promised the full amount,Refund
+TKT-1120,The price on my invoice does not match what was advertised,Billing
+TKT-1121,What is your service level agreement for uptime,General Inquiry
+TKT-1122,Why did my credit card get charged an extra fee,Billing
+TKT-1123,What happens to my data if I delete my account,General Inquiry
+TKT-1124,Can I exchange instead of getting a refund,Refund
+TKT-1125,I was promised a refund but nothing has come through,Refund
+TKT-1126,My keyboard shortcuts stopped working after the update,Technical Issue
+TKT-1127,Charts and graphs are not displaying correctly,Technical Issue
+TKT-1128,My refund has not appeared in my account yet,Refund
+TKT-1129,My automatic payment failed and now my account is suspended,Billing
+TKT-1130,My LinkedIn login keeps failing,Account Access
+TKT-1131,My account is locked after too many login attempts,Account Access
+TKT-1132,The app crashes specifically when I try to share a document,Technical Issue
+TKT-1133,How many users can I have on one account,General Inquiry
+TKT-1134,Is there an API available for developers,General Inquiry
+TKT-1135,I cannot resize columns in the table view,Technical Issue
+TKT-1136,Can you send me a detailed breakdown of my bill,Billing
+TKT-1137,I need to change my billing cycle from monthly to annual,Billing
+TKT-1138,Can you reverse the last transaction on my account,Refund
+TKT-1139,I would like to request a demo of your product,General Inquiry
+TKT-1140,I want to reactivate my cancelled subscription,Subscription
+TKT-1141,My card was declined but the money left my account,Billing
+TKT-1142,The integration with Slack stopped working yesterday,Technical Issue
+TKT-1143,Can I use your product offline,General Inquiry
+TKT-1144,I need to remove some seats from my team account,Subscription
+TKT-1145,What are your business hours for customer support,General Inquiry
+TKT-1146,I want to leave a review how can I do that,General Inquiry
+TKT-1147,I am getting a 500 internal server error when I try to save,Technical Issue
+TKT-1148,I submitted a refund form but no one has responded,Refund
+TKT-1149,My account was deactivated can you reactivate it,Account Access
+TKT-1150,I cancelled same day but was still charged,Refund
+TKT-1151,Are there any webinars or tutorials available,General Inquiry
+TKT-1152,How do I apply for a refund through your portal,Refund
+TKT-1153,I have been waiting two weeks for my refund,Refund
+TKT-1154,The live chat widget on your site does not open,Technical Issue
+TKT-1155,Please send my invoice to a different email address,Billing
+TKT-1156,I returned the item but still have not been credited,Refund
+TKT-1157,Can I use your tool for commercial projects,General Inquiry
+TKT-1158,I want to share my subscription with a family member,Subscription
+TKT-1159,The product did not work as advertised please refund me,Refund
+TKT-1160,Is your service available in my country,General Inquiry
+TKT-1161,I would like to speak with your sales team,General Inquiry
+TKT-1162,My invoice shows the wrong amount please fix it,Billing
+TKT-1163,The software crashed and lost my data I want compensation,Refund
+TKT-1164,I have a group and need a discount for bulk subscriptions,Subscription
+TKT-1165,My free trial ended but I was not notified,Subscription
+TKT-1166,Do you offer a free trial for the premium plan,General Inquiry
+TKT-1167,My session keeps expiring every 5 minutes,Account Access
+TKT-1168,The login page is giving me an invalid token error,Account Access
+TKT-1169,My password manager says login failed with correct credentials,Account Access
+TKT-1170,Images are not loading on the mobile version,Technical Issue
+TKT-1171,The two factor authentication codes are not arriving,Technical Issue
+TKT-1172,How do I cancel my subscription without losing my data,Subscription
+TKT-1173,What is your cancellation and refund policy,General Inquiry
+TKT-1174,I requested a downgrade but was still charged the full amount,Billing
+TKT-1175,I cannot print reports the button is greyed out,Technical Issue
+TKT-1176,I created an account but never received a verification email,Account Access
+TKT-1177,The tax amount on my invoice seems incorrect,Billing
+TKT-1178,I cannot log in it says my email is not recognized,Account Access
+TKT-1179,I need admin access to my team account,Account Access
